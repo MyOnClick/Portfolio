@@ -935,6 +935,8 @@ a {
     font-size: 1.3rem;
   }
   .contacts-img {
+    margin-left: 5px;
+    padding: 10px;
     float: left;
     height: 9rem;
     width: 9rem;
